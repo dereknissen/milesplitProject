@@ -6,8 +6,6 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-url = "https://mo.milesplit.com/"
-
 seasons = ["/cross-country", "/outdoor-track-and-field"]
 event = ["/5000m?year=", "/100m?year=", "/200m?year=", "/400m?year=",
          "/800m?year=", "/1600m?year=", "/3200m?year=", "/100mH?year=",
@@ -18,6 +16,7 @@ page = ['1','2','3','4','5','6','7','8','9','10',
         '11','12','13','14','15','16','17','18','19','20']
 
 def addRosterToTeams(teamID):
+    url = "https://mo.milesplit.com/"
     scrapeURL = url + "teams/" + str(teamID) + "/roster"
     page = requests.get(scrapeURL) # Retrieve webpage response
     soup = BeautifulSoup(page.text, "html.parser") # Gets soup tool
@@ -60,8 +59,16 @@ def getRunnerEventData(runnerName, event = "None"):
     scrapeURL = athleteLink
     page = requests.get(scrapeURL) # Retrieve webpage response
     soup = BeautifulSoup(page.text, "html.parser") # Gets soup tool
-    xcData = soup.find_all("div", attrs={"id":"stats", "class":"performance-listing"})
-    print(xcData.text)
+    xcData = soup.find_all("div", attrs={"class":"record row"})
+
+    for div in xcData:
+        print(div.text) # Date
+        otherStuff = div.find_all("div")
+        print(otherStuff)
+        for stuff in otherStuff:
+            print(div.find_all("div"))
+    
+
     
 
 
