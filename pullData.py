@@ -60,8 +60,8 @@ def getRunnerEventData(runnerName, event = "None"):
     scrapeURL = athleteLink
     page = requests.get(scrapeURL) # Retrieve webpage response
     soup = BeautifulSoup(page.text, "html.parser") # Gets soup tool
-    events = soup.find_all("div", attrs={"class": "event"})
-    print(events)
+    xcData = soup.find_all("div", attrs={"id":"stats", "class":"performance-listing"})
+    print(xcData.text)
     
 
 
