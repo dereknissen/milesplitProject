@@ -6,12 +6,12 @@ import constants
 import json
 from pullData import *
 
-def main(update = False):
+def main(loadTeamData = False):
 
-    if update == True: # Get new data?
+    if loadTeamData == True: # Get current team data from milesplit
         # Clear json file
         teamsJson = open("teams.JSON", "w")
-        json.dump({}, teamsJson, indent = 6,)
+        json.dump({}, teamsJson, indent = 4,)
         teamsJson.close() # Close file as clean
 
         # Add current Milesplit data
@@ -19,6 +19,7 @@ def main(update = False):
             addRosterToTeams(team)
     
     # Testing
-    getRunnerEventData("derek nissen")
+    derekData = getRunnerData("derek nissen", newData = False) # Pull results
 
-main(False)
+
+main(loadTeamData = False)
