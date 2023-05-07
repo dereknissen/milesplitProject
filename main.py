@@ -13,7 +13,7 @@ def main(update = False):
         teamsJson = open("teams.JSON", "w")
         json.dump({}, teamsJson, indent = 6,)
         teamsJson.close() # Close file as clean
-        
+
         # Add current Milesplit data
         for team in constants.teamsToLoad:
             addRosterToTeams(team)

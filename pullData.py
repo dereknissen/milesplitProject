@@ -4,7 +4,11 @@
 
 from bs4 import BeautifulSoup
 import requests
+import time
 import json
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
 
 seasons = ["/cross-country", "/outdoor-track-and-field"]
 event = ["/5000m?year=", "/100m?year=", "/200m?year=", "/400m?year=",
@@ -14,6 +18,29 @@ event = ["/5000m?year=", "/100m?year=", "/200m?year=", "/400m?year=",
 
 page = ['1','2','3','4','5','6','7','8','9','10',
         '11','12','13','14','15','16','17','18','19','20']
+
+def milesplitLogin():
+    chromePath = "/Applications/Google Chrome.app"
+    browserDriver = Service(chromePath)
+    pageToScrape = webdriver.Chrome(service=browserDriver)
+    pageToScrape.get("https://mo.milesplit.com/")
+
+    pageToScrape.find_element(By.LINK_TEXT, "Login").click()
+    print("clicked login")
+    time.sleep(3) # Wait for page to load
+    pageToScrape.find_element(By.LINK_TEXT, "Login").click()
+    print("trying to log in again")
+    time.sleep(3)
+    username = pageToScrape.find_element(By.ID, "email")
+    password = pageToScrape.find_element(By.ID, "password")
+    username.send_keys("dcyounger@gmail.com")
+    password.send_keys("YoungerFam01")
+    pageToScrape.find_element(By.ID, "frmSubmit").click()
+    time.sleep(3)
+    
+
+
+
 
 def addRosterToTeams(teamID):
     url = "https://mo.milesplit.com/"
@@ -43,6 +70,8 @@ def addRosterToTeams(teamID):
     jsonFile.close()
 
 def getRunnerEventData(runnerName, event = "None"):
+    milesplitLogin()
+
     # Get athlete id
     teamJSON = open("teams.JSON", "r")
     teamDicts = json.load(teamJSON)
