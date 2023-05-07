@@ -2562,7 +2562,461 @@
         ],
         [
             "Borum, Blake",
-            "https://mo.milesplit.com/athletes/8502174-blake-borum"
+            "https://mo.milesplit.com/athletes/8502174-blake-borum",
+            {
+                "800 Meter Run": [
+                    [
+                        "2:03.40",
+                        "8th",
+                        "Finals",
+                        "Suburban GOLD Conference JV/Varsity Championships",
+                        "May 05, 2023"
+                    ],
+                    [
+                        "2:06.29",
+                        "10th",
+                        "Finals",
+                        "Marc Cleveland Grain Valley Invitational",
+                        "Apr 20, 2023"
+                    ],
+                    [
+                        "2:06.83",
+                        "7th",
+                        "Finals",
+                        "Kansas City Relays",
+                        "Apr 15, 2022"
+                    ],
+                    [
+                        "2:23.34",
+                        "3rd",
+                        "Finals",
+                        "Kearney/Harrisonville MS Invite",
+                        "Apr 29, 2019"
+                    ],
+                    [
+                        "2:25.66",
+                        "3rd",
+                        "Finals",
+                        "Grandview (KC) MS Invitational",
+                        "Apr 23, 2019"
+                    ],
+                    [
+                        "2:23.10",
+                        "2nd",
+                        "Finals",
+                        "Belton Middle School Invitational",
+                        "Apr 04, 2019"
+                    ]
+                ],
+                "1600 Meter Run": [
+                    [
+                        "4:35.60",
+                        "8th",
+                        "Finals",
+                        "Marc Cleveland Grain Valley Invitational",
+                        "Apr 20, 2023"
+                    ],
+                    [
+                        "4:40.03",
+                        "10th",
+                        "Finals",
+                        "ESU High School Relays",
+                        "Mar 31, 2023"
+                    ],
+                    [
+                        "4:32.79",
+                        "11th",
+                        "Finals",
+                        "Kansas City Suburban Gold Varsity Conference Championships",
+                        "May 06, 2022"
+                    ],
+                    [
+                        "4:34.22",
+                        "4th",
+                        "Finals",
+                        "Grain Valley Invitational",
+                        "Apr 21, 2022"
+                    ],
+                    [
+                        "4:35.77",
+                        "7th",
+                        "Finals",
+                        "Kansas City Relays",
+                        "Apr 15, 2022"
+                    ],
+                    [
+                        "4:39.68",
+                        "5th",
+                        "Finals",
+                        "Emporia State HS Relays",
+                        "Apr 01, 2022"
+                    ],
+                    [
+                        "4:47.64",
+                        "8th",
+                        "Finals",
+                        "Class 5 District 6",
+                        "May 15, 2021"
+                    ],
+                    [
+                        "4:45.69",
+                        "4th",
+                        "Finals",
+                        "Joe Falcon Invitational",
+                        "Apr 30, 2021"
+                    ],
+                    [
+                        "4:50.27",
+                        "9th",
+                        "Finals",
+                        "Rusty Hodge Blue Invitational Meet",
+                        "Apr 01, 2021"
+                    ],
+                    [
+                        "5:15.28",
+                        "4th",
+                        "Finals",
+                        "Kearney/Harrisonville MS Invite",
+                        "Apr 29, 2019"
+                    ],
+                    [
+                        "5:21.31",
+                        "3rd",
+                        "Finals",
+                        "Grandview (KC) MS Invitational",
+                        "Apr 23, 2019"
+                    ],
+                    [
+                        "5:19.60",
+                        "2nd",
+                        "Finals",
+                        "Belton Middle School Invitational",
+                        "Apr 04, 2019"
+                    ]
+                ],
+                "3200 Meter Run": [
+                    [
+                        "10:25.49",
+                        "3rd",
+                        "Finals",
+                        "Jerry Crews Invitational",
+                        "Apr 07, 2023"
+                    ],
+                    [
+                        "9:55.33",
+                        "5th",
+                        "Finals",
+                        "MSHSAA Class 5 Sectional 4",
+                        "May 21, 2022"
+                    ],
+                    [
+                        "10:05.29",
+                        "3rd",
+                        "Finals",
+                        "Class 5 District 7",
+                        "May 14, 2022"
+                    ],
+                    [
+                        "9:51.06",
+                        "7th",
+                        "Finals",
+                        "Kansas City Suburban Gold Varsity Conference Championships",
+                        "May 06, 2022"
+                    ],
+                    [
+                        "10:14.08",
+                        "5th",
+                        "Finals",
+                        "Gardner-Edgerton Trailblazer Invitational",
+                        "Apr 29, 2022"
+                    ],
+                    [
+                        "10:01.32",
+                        "4th",
+                        "Finals",
+                        "Grain Valley Invitational",
+                        "Apr 21, 2022"
+                    ],
+                    [
+                        "9:42.95",
+                        "5th",
+                        "Finals",
+                        "33rd Annual Jock's Nitch/PSU Gorilla Relays",
+                        "Apr 08, 2022"
+                    ],
+                    [
+                        "10:10.42",
+                        "5th",
+                        "Finals",
+                        "Emporia State HS Relays",
+                        "Apr 01, 2022"
+                    ],
+                    [
+                        "10:05.80",
+                        "1st",
+                        "Finals",
+                        "Bob Thorpe Invitational",
+                        "Mar 25, 2022"
+                    ],
+                    [
+                        "10:08.52",
+                        "13th",
+                        "Finals",
+                        "KC Suburban Gold Conference Championships-VARSITY",
+                        "May 07, 2021"
+                    ],
+                    [
+                        "10:27.59",
+                        "10th",
+                        "Finals",
+                        "Darwin Rold Invitational",
+                        "Apr 15, 2021"
+                    ],
+                    [
+                        "10:42.20",
+                        "3rd",
+                        "Finals",
+                        "Bishop Miege Inv",
+                        "Apr 09, 2021"
+                    ],
+                    [
+                        "10:54.74",
+                        "5th",
+                        "Finals",
+                        "Bob Thorpe Invitational",
+                        "Mar 26, 2021"
+                    ]
+                ],
+                "Three Mile Run": [
+                    [
+                        "20:00.00",
+                        "94th",
+                        "Finals",
+                        "MO Roster Import (Internal)",
+                        "Feb 28, 2023"
+                    ]
+                ],
+                "3000 Meter Run": [
+                    [
+                        "10:34.22",
+                        "1st",
+                        "Finals",
+                        "Missouri Southern Stampede",
+                        "Sep 17, 2022"
+                    ]
+                ],
+                "5000 Meter Run": [
+                    [
+                        "16:41.10",
+                        "55th",
+                        "Finals",
+                        "MSHSAA Class 5 State XC Championships",
+                        "Nov 04, 2022"
+                    ],
+                    [
+                        "16:37.42",
+                        "27th",
+                        "Finals",
+                        "MSHSAA Class 5 - District 2",
+                        "Oct 29, 2022"
+                    ],
+                    [
+                        "16:04.13",
+                        "9th",
+                        "Finals",
+                        "KC Suburban Gold/Silver Conference XC",
+                        "Oct 15, 2022"
+                    ],
+                    [
+                        "16:45.60",
+                        "7th",
+                        "Finals",
+                        "Haskell Invite",
+                        "Oct 08, 2022"
+                    ],
+                    [
+                        "17:07.40",
+                        "7th",
+                        "Finals",
+                        "Sock it to Cancer Grain Valley Invitational",
+                        "Oct 01, 2022"
+                    ],
+                    [
+                        "17:46.20",
+                        "130th",
+                        "Finals",
+                        "Gans Creek Classic",
+                        "Sep 24, 2022"
+                    ],
+                    [
+                        "16:23.10",
+                        "62nd",
+                        "Finals",
+                        "MSHSAA Class 5 State XC Championships",
+                        "Nov 05, 2021"
+                    ],
+                    [
+                        "16:55.10",
+                        "13th",
+                        "Finals",
+                        "MSHSAA Class 5 - District 2",
+                        "Oct 30, 2021"
+                    ],
+                    [
+                        "16:40.89",
+                        "10th",
+                        "Finals",
+                        "KC Suburban Gold Conference XC",
+                        "Oct 16, 2021"
+                    ],
+                    [
+                        "16:55.80",
+                        "2nd",
+                        "Finals",
+                        "Butler Bear XC Invitational",
+                        "Oct 09, 2021"
+                    ],
+                    [
+                        "17:07.80",
+                        "49th",
+                        "Finals",
+                        "KC XC Classic",
+                        "Oct 02, 2021"
+                    ],
+                    [
+                        "16:37.70",
+                        "71st",
+                        "Finals",
+                        "Gans Creek Classic",
+                        "Sep 25, 2021"
+                    ],
+                    [
+                        "16:53.06",
+                        "4th",
+                        "Finals",
+                        "Trinity / Valkyrie Invitational",
+                        "Sep 17-18, 2021"
+                    ],
+                    [
+                        "17:13.10",
+                        "14th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 11, 2021"
+                    ],
+                    [
+                        "17:27.01",
+                        "22nd",
+                        "Finals",
+                        "MSHSAA Class 5 - District 7",
+                        "Oct 31, 2020"
+                    ],
+                    [
+                        "17:33.30",
+                        "30th",
+                        "Finals",
+                        "KC Suburban Gold Conference Championships",
+                        "Oct 17, 2020"
+                    ],
+                    [
+                        "18:15.30",
+                        "17th",
+                        "Finals",
+                        "Butler Bear XC Invitational",
+                        "Oct 10, 2020"
+                    ],
+                    [
+                        "17:34.10",
+                        "107th",
+                        "Finals",
+                        "KC XC Classic",
+                        "Oct 03, 2020"
+                    ],
+                    [
+                        "18:34.10",
+                        "113th",
+                        "Finals",
+                        "Gans Creek Classic",
+                        "Sep 26, 2020"
+                    ],
+                    [
+                        "17:59.81",
+                        "24th",
+                        "Finals",
+                        "Bonner Springs Invitational",
+                        "Sep 19, 2020"
+                    ],
+                    [
+                        "18:39.90",
+                        "6th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 12, 2020"
+                    ],
+                    [
+                        "19:48.20",
+                        "126th",
+                        "Finals",
+                        "Foot Locker Midwest Regional",
+                        "Nov 30, 2019"
+                    ],
+                    [
+                        "18:55.60",
+                        "21st",
+                        "Finals",
+                        "KC Suburban Gold Conference",
+                        "Oct 12, 2019"
+                    ],
+                    [
+                        "19:05.40",
+                        "16th",
+                        "Finals",
+                        "KC XC Classic",
+                        "Oct 05, 2019"
+                    ],
+                    [
+                        "19:31.20",
+                        "75th",
+                        "Finals",
+                        "Gans Creek Classic/Pre-State",
+                        "Sep 27-28, 2019"
+                    ],
+                    [
+                        "19:30.00",
+                        "36th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 14, 2019"
+                    ]
+                ],
+                "Two Mile Run": [
+                    [
+                        "12:33.20",
+                        "9th",
+                        "Finals",
+                        "Cass County Invitational",
+                        "Sep 07, 2019"
+                    ]
+                ],
+                "1.x Mile Run": [
+                    [
+                        "8:14.70",
+                        "36th",
+                        "Finals",
+                        "The Stamepede (Middle School)",
+                        "Sep 26, 2018"
+                    ]
+                ],
+                "2400 Meter Run": [
+                    [
+                        "9:28.30",
+                        "34th",
+                        "Finals",
+                        "Ray-Pec MS Invitational",
+                        "Oct 03, 2018"
+                    ]
+                ]
+            }
         ],
         [
             "Bowie, Ja'Mar",
@@ -2978,7 +3432,296 @@
         ],
         [
             "Kemper, Andres",
-            "https://mo.milesplit.com/athletes/10125096-andres-kemper"
+            "https://mo.milesplit.com/athletes/10125096-andres-kemper",
+            {
+                "400 Meter Dash": [
+                    [
+                        "53.02",
+                        "3rd",
+                        "Finals",
+                        "Jerry Crews Invitational",
+                        "Apr 07, 2023"
+                    ],
+                    [
+                        "56.38",
+                        "13th",
+                        "Finals",
+                        "Gardner-Edgerton Trailblazer Invitational",
+                        "Apr 29, 2022"
+                    ],
+                    [
+                        "54.00",
+                        "5th",
+                        "Finals",
+                        "KC Suburban Gold Conference Championships-JV",
+                        "May 05, 2021"
+                    ],
+                    [
+                        "55.46",
+                        "1st",
+                        "Finals",
+                        "Raymore Peculiar JV Invitational",
+                        "Apr 06, 2021"
+                    ],
+                    [
+                        "56.81",
+                        "8th",
+                        "Finals",
+                        "LSW Quint Meet",
+                        "Mar 29, 2021"
+                    ]
+                ],
+                "800 Meter Run": [
+                    [
+                        "2:00.02",
+                        "5th",
+                        "Finals",
+                        "Gardner-Edgerton Trailblazer Invitational",
+                        "Apr 28, 2023"
+                    ],
+                    [
+                        "2:01.52",
+                        "5th",
+                        "Finals",
+                        "Marc Cleveland Grain Valley Invitational",
+                        "Apr 20, 2023"
+                    ],
+                    [
+                        "2:00.50",
+                        "4th",
+                        "Finals",
+                        "ESU High School Relays",
+                        "Mar 31, 2023"
+                    ],
+                    [
+                        "2:01.33",
+                        "1st",
+                        "Finals",
+                        "Bob Thorpe Invitational",
+                        "Mar 27, 2023"
+                    ],
+                    [
+                        "2:11.20",
+                        "14th",
+                        "Finals",
+                        "Class 5 District 7",
+                        "May 14, 2022"
+                    ],
+                    [
+                        "2:06.99",
+                        "16th",
+                        "Finals",
+                        "Kansas City Suburban Gold Varsity Conference Championships",
+                        "May 06, 2022"
+                    ],
+                    [
+                        "2:14.78",
+                        "27th",
+                        "Finals",
+                        "Kansas City Relays",
+                        "Apr 15, 2022"
+                    ],
+                    [
+                        "2:18.81",
+                        "5th",
+                        "Finals",
+                        "KC Suburban Gold Freshman",
+                        "Apr 27, 2021"
+                    ],
+                    [
+                        "2:19.70",
+                        "4th",
+                        "Finals",
+                        "Pleasant Hill Quad",
+                        "Mar 23, 2021"
+                    ]
+                ],
+                "1600 Meter Run": [
+                    [
+                        "4:33.47",
+                        "5th",
+                        "Finals",
+                        "Marc Cleveland Grain Valley Invitational",
+                        "Apr 20, 2023"
+                    ],
+                    [
+                        "4:42.89",
+                        "13th",
+                        "Finals",
+                        "ESU High School Relays",
+                        "Mar 31, 2023"
+                    ],
+                    [
+                        "5:09.17",
+                        "6th",
+                        "Finals",
+                        "KC Suburban Gold Freshman",
+                        "Apr 27, 2021"
+                    ],
+                    [
+                        "5:09.50",
+                        "1st",
+                        "Finals",
+                        "Belton JV Invite",
+                        "Apr 14, 2021"
+                    ],
+                    [
+                        "5:14.60",
+                        "3rd",
+                        "Finals",
+                        "Pleasant Hill Quad",
+                        "Mar 23, 2021"
+                    ]
+                ],
+                "Three Mile Run": [
+                    [
+                        "20:00.00",
+                        "111th",
+                        "Finals",
+                        "MO Roster Import (Internal)",
+                        "Feb 28, 2023"
+                    ]
+                ],
+                "5000 Meter Run": [
+                    [
+                        "16:36.60",
+                        "50th",
+                        "Finals",
+                        "MSHSAA Class 5 State XC Championships",
+                        "Nov 04, 2022"
+                    ],
+                    [
+                        "16:24.47",
+                        "21st",
+                        "Finals",
+                        "MSHSAA Class 5 - District 2",
+                        "Oct 29, 2022"
+                    ],
+                    [
+                        "16:25.48",
+                        "19th",
+                        "Finals",
+                        "KC Suburban Gold/Silver Conference XC",
+                        "Oct 15, 2022"
+                    ],
+                    [
+                        "16:52.60",
+                        "8th",
+                        "Finals",
+                        "Haskell Invite",
+                        "Oct 08, 2022"
+                    ],
+                    [
+                        "16:48.20",
+                        "4th",
+                        "Finals",
+                        "Sock it to Cancer Grain Valley Invitational",
+                        "Oct 01, 2022"
+                    ],
+                    [
+                        "17:03.70",
+                        "72nd",
+                        "Finals",
+                        "Gans Creek Classic",
+                        "Sep 24, 2022"
+                    ],
+                    [
+                        "17:25.19",
+                        "90th",
+                        "Finals",
+                        "Missouri Southern Stampede",
+                        "Sep 17, 2022"
+                    ],
+                    [
+                        "17:18.50",
+                        "13th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 10, 2022"
+                    ],
+                    [
+                        "17:03.30",
+                        "38th",
+                        "Finals",
+                        "Tim Nixon Invitational",
+                        "Sep 03, 2022"
+                    ],
+                    [
+                        "18:41.50",
+                        "14th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 11, 2021"
+                    ],
+                    [
+                        "18:59.20",
+                        "1st",
+                        "Finals",
+                        "KC Suburban Gold Conference Championships",
+                        "Oct 17, 2020"
+                    ],
+                    [
+                        "19:23.80",
+                        "6th",
+                        "Finals",
+                        "Butler Bear XC Invitational",
+                        "Oct 10, 2020"
+                    ],
+                    [
+                        "18:18.40",
+                        "30th",
+                        "Finals",
+                        "KC XC Classic",
+                        "Oct 03, 2020"
+                    ],
+                    [
+                        "19:30.30",
+                        "18th",
+                        "Finals",
+                        "Grandview 43rd Annual Invitational",
+                        "Sep 24, 2020"
+                    ],
+                    [
+                        "18:39.06",
+                        "3rd",
+                        "Finals",
+                        "Bonner Springs Invitational",
+                        "Sep 19, 2020"
+                    ],
+                    [
+                        "19:17.80",
+                        "142nd",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 12, 2020"
+                    ]
+                ],
+                "3200 Meter Run": [
+                    [
+                        "12:31.92",
+                        "7th",
+                        "Finals",
+                        "LSW Quint Meet",
+                        "Mar 29, 2021"
+                    ]
+                ],
+                "Pole Vault": [
+                    [
+                        "2.25m",
+                        "11th",
+                        "Finals",
+                        "KC Suburban Gold Conference Championships-JV",
+                        "May 05, 2021"
+                    ],
+                    [
+                        "2.38m",
+                        "4th",
+                        "Finals",
+                        "KC Suburban Gold Freshman",
+                        "Apr 27, 2021"
+                    ]
+                ]
+            }
         ],
         [
             "Kennedy, Katelyn",
@@ -3825,7 +4568,161 @@
         ],
         [
             "Voelker, Gabriel",
-            "https://mo.milesplit.com/athletes/12273390-gabriel-voelker"
+            "https://mo.milesplit.com/athletes/12273390-gabriel-voelker",
+            {
+                "800 Meter Run": [
+                    [
+                        "2:12.19",
+                        "4th",
+                        "Finals",
+                        "Jerry Crews Invitational",
+                        "Apr 07, 2023"
+                    ],
+                    [
+                        "2:11.98",
+                        "16th",
+                        "Finals",
+                        "ESU High School Relays",
+                        "Mar 31, 2023"
+                    ]
+                ],
+                "1600 Meter Run": [
+                    [
+                        "4:35.98",
+                        "8th",
+                        "Finals",
+                        "Suburban GOLD Conference JV/Varsity Championships",
+                        "May 05, 2023"
+                    ],
+                    [
+                        "4:45.93",
+                        "10th",
+                        "Finals",
+                        "Gardner-Edgerton Trailblazer Invitational",
+                        "Apr 28, 2023"
+                    ],
+                    [
+                        "4:40.17",
+                        "1st",
+                        "Finals",
+                        "KC Suburban Gold Conference Freshman Championship",
+                        "Apr 25, 2023"
+                    ],
+                    [
+                        "4:40.41",
+                        "2nd",
+                        "Finals",
+                        "Jerry Crews Invitational",
+                        "Apr 07, 2023"
+                    ]
+                ],
+                "3200 Meter Run": [
+                    [
+                        "9:58.73",
+                        "5th",
+                        "Finals",
+                        "Suburban GOLD Conference JV/Varsity Championships",
+                        "May 05, 2023"
+                    ],
+                    [
+                        "10:20.51",
+                        "1st",
+                        "Finals",
+                        "KC Suburban Gold Conference Freshman Championship",
+                        "Apr 25, 2023"
+                    ],
+                    [
+                        "9:48.13",
+                        "3rd",
+                        "Finals",
+                        "Marc Cleveland Grain Valley Invitational",
+                        "Apr 20, 2023"
+                    ],
+                    [
+                        "10:08.58",
+                        "1st",
+                        "Finals",
+                        "Bob Thorpe Invitational",
+                        "Mar 27, 2023"
+                    ]
+                ],
+                "Three Mile Run": [
+                    [
+                        "20:00.00",
+                        "165th",
+                        "Finals",
+                        "MO Roster Import (Internal)",
+                        "Feb 28, 2023"
+                    ]
+                ],
+                "2000 Meter Steeplechase": [
+                    [
+                        "6:32.06",
+                        "2nd",
+                        "Finals",
+                        "Kansas Relays",
+                        "Apr 14-15, 2023"
+                    ],
+                    [
+                        "6:45.20",
+                        "1st",
+                        "Finals",
+                        "ESU High School Relays",
+                        "Mar 31, 2023"
+                    ]
+                ],
+                "5000 Meter Run": [
+                    [
+                        "16:26.10",
+                        "34th",
+                        "Finals",
+                        "MSHSAA Class 5 State XC Championships",
+                        "Nov 04, 2022"
+                    ],
+                    [
+                        "16:12.86",
+                        "14th",
+                        "Finals",
+                        "MSHSAA Class 5 - District 2",
+                        "Oct 29, 2022"
+                    ],
+                    [
+                        "16:27.65",
+                        "20th",
+                        "Finals",
+                        "KC Suburban Gold/Silver Conference XC",
+                        "Oct 15, 2022"
+                    ],
+                    [
+                        "17:51.30",
+                        "16th",
+                        "Finals",
+                        "Haskell Invite",
+                        "Oct 08, 2022"
+                    ],
+                    [
+                        "18:27.39",
+                        "180th",
+                        "Finals",
+                        "Missouri Southern Stampede",
+                        "Sep 17, 2022"
+                    ],
+                    [
+                        "17:13.40",
+                        "11th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 10, 2022"
+                    ],
+                    [
+                        "17:02.50",
+                        "1st",
+                        "Finals",
+                        "Tim Nixon Invitational",
+                        "Sep 03, 2022"
+                    ]
+                ]
+            }
         ],
         [
             "Wade, Khyla",
@@ -3885,7 +4782,284 @@
         ],
         [
             "Younger, Carter",
-            "https://mo.milesplit.com/athletes/10975600-carter-younger"
+            "https://mo.milesplit.com/athletes/10975600-carter-younger",
+            {
+                "1600 Meter Run": [
+                    [
+                        "4:37.17",
+                        "11th",
+                        "Finals",
+                        "Suburban GOLD Conference JV/Varsity Championships",
+                        "May 05, 2023"
+                    ],
+                    [
+                        "4:42.11",
+                        "2nd",
+                        "Finals",
+                        "Bob Thorpe Invitational",
+                        "Mar 27, 2023"
+                    ],
+                    [
+                        "4:51.42",
+                        "3rd",
+                        "Finals",
+                        "Suburban Gold Freshman Conference Championships",
+                        "Apr 26, 2022"
+                    ],
+                    [
+                        "4:58.77",
+                        "31st",
+                        "Finals",
+                        "33rd Annual Jock's Nitch/PSU Gorilla Relays",
+                        "Apr 08, 2022"
+                    ],
+                    [
+                        "5:04.13",
+                        "4th",
+                        "Finals",
+                        "Bob Thorpe Invitational",
+                        "Mar 25, 2022"
+                    ]
+                ],
+                "3200 Meter Run": [
+                    [
+                        "10:12.82",
+                        "8th",
+                        "Finals",
+                        "Suburban GOLD Conference JV/Varsity Championships",
+                        "May 05, 2023"
+                    ],
+                    [
+                        "9:59.11",
+                        "4th",
+                        "Finals",
+                        "Gardner-Edgerton Trailblazer Invitational",
+                        "Apr 28, 2023"
+                    ],
+                    [
+                        "10:02.00",
+                        "2nd",
+                        "Finals",
+                        "Jerry Crews Invitational",
+                        "Apr 07, 2023"
+                    ],
+                    [
+                        "10:17.12",
+                        "10th",
+                        "Finals",
+                        "ESU High School Relays",
+                        "Mar 31, 2023"
+                    ],
+                    [
+                        "10:12.71",
+                        "2nd",
+                        "Finals",
+                        "Bob Thorpe Invitational",
+                        "Mar 27, 2023"
+                    ],
+                    [
+                        "10:25.15",
+                        "9th",
+                        "Finals",
+                        "Class 5 District 7",
+                        "May 14, 2022"
+                    ],
+                    [
+                        "10:11.81",
+                        "13th",
+                        "Finals",
+                        "Kansas City Suburban Gold Varsity Conference Championships",
+                        "May 06, 2022"
+                    ],
+                    [
+                        "10:37.20",
+                        "3rd",
+                        "Finals",
+                        "Suburban Gold Freshman Conference Championships",
+                        "Apr 26, 2022"
+                    ],
+                    [
+                        "10:30.16",
+                        "15th",
+                        "Finals",
+                        "Kansas City Relays",
+                        "Apr 15, 2022"
+                    ],
+                    [
+                        "10:23.24",
+                        "7th",
+                        "Finals",
+                        "Emporia State HS Relays",
+                        "Apr 01, 2022"
+                    ]
+                ],
+                "Three Mile Run": [
+                    [
+                        "20:00.00",
+                        "134th",
+                        "Finals",
+                        "MO Roster Import (Internal)",
+                        "Feb 28, 2023"
+                    ]
+                ],
+                "One Mile Run": [
+                    [
+                        "4:52.66",
+                        "109th",
+                        "Finals",
+                        "Arkansas High School Invitational",
+                        "Jan 14, 2023"
+                    ]
+                ],
+                "5000 Meter Run": [
+                    [
+                        "16:42.70",
+                        "15th",
+                        "Finals",
+                        "Team Midwest Regional Championships",
+                        "Nov 12-13, 2022"
+                    ],
+                    [
+                        "16:06.50",
+                        "26th",
+                        "Finals",
+                        "MSHSAA Class 5 State XC Championships",
+                        "Nov 04, 2022"
+                    ],
+                    [
+                        "15:53.82",
+                        "8th",
+                        "Finals",
+                        "MSHSAA Class 5 - District 2",
+                        "Oct 29, 2022"
+                    ],
+                    [
+                        "16:10.82",
+                        "14th",
+                        "Finals",
+                        "KC Suburban Gold/Silver Conference XC",
+                        "Oct 15, 2022"
+                    ],
+                    [
+                        "16:35.20",
+                        "4th",
+                        "Finals",
+                        "Haskell Invite",
+                        "Oct 08, 2022"
+                    ],
+                    [
+                        "16:49.10",
+                        "5th",
+                        "Finals",
+                        "Sock it to Cancer Grain Valley Invitational",
+                        "Oct 01, 2022"
+                    ],
+                    [
+                        "16:51.40",
+                        "56th",
+                        "Finals",
+                        "Gans Creek Classic",
+                        "Sep 24, 2022"
+                    ],
+                    [
+                        "16:49.51",
+                        "55th",
+                        "Finals",
+                        "Missouri Southern Stampede",
+                        "Sep 17, 2022"
+                    ],
+                    [
+                        "17:26.10",
+                        "15th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 10, 2022"
+                    ],
+                    [
+                        "17:00.80",
+                        "35th",
+                        "Finals",
+                        "Tim Nixon Invitational",
+                        "Sep 03, 2022"
+                    ],
+                    [
+                        "17:42.95",
+                        "35th",
+                        "Finals",
+                        "KC Suburban Gold Conference XC",
+                        "Oct 16, 2021"
+                    ],
+                    [
+                        "18:20.60",
+                        "1st",
+                        "Finals",
+                        "Butler Bear XC Invitational",
+                        "Oct 09, 2021"
+                    ],
+                    [
+                        "17:13.90",
+                        "126th",
+                        "Finals",
+                        "Gans Creek Classic",
+                        "Sep 25, 2021"
+                    ],
+                    [
+                        "17:21.67",
+                        "13th",
+                        "Finals",
+                        "Trinity / Valkyrie Invitational",
+                        "Sep 17-18, 2021"
+                    ],
+                    [
+                        "18:03.40",
+                        "38th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 11, 2021"
+                    ]
+                ],
+                "800 Meter Run": [
+                    [
+                        "2:16.43",
+                        "31st",
+                        "Finals",
+                        "33rd Annual Jock's Nitch/PSU Gorilla Relays",
+                        "Apr 08, 2022"
+                    ],
+                    [
+                        "2:21.84",
+                        "10th",
+                        "Finals",
+                        "Bob Thorpe Invitational",
+                        "Mar 25, 2022"
+                    ]
+                ],
+                "Two Mile Run": [
+                    [
+                        "10:51.09",
+                        "10th",
+                        "Finals",
+                        "Washburn University HS Series #2",
+                        "Jan 23, 2022"
+                    ]
+                ],
+                "2400 Meter Run": [
+                    [
+                        "9:35.90",
+                        "39th",
+                        "Finals",
+                        "Ray-Pec MS Invitational",
+                        "Oct 08, 2019"
+                    ],
+                    [
+                        "9:43.80",
+                        "89th",
+                        "Finals",
+                        "The Stampede (Middle School)",
+                        "Sep 25, 2019"
+                    ]
+                ]
+            }
         ],
         [
             "Zupan, Monika",

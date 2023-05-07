@@ -19,7 +19,7 @@ def main(loadTeamData = False):
             addRosterToTeams(team)
     
     # Testing
-    derekData = getRunnerData("derek nissen", newData = False) # Pull results
+    data = getRunnerData("gabriel voelker", newData = True) # Pull results
 
 
 main(loadTeamData = False)

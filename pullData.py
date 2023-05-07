@@ -26,10 +26,8 @@ def login():
     # Login to milesplit
     pageToScrape.get("https://mo.milesplit.com/")
     pageToScrape.find_element(By.LINK_TEXT, "Login").click()
-    print("clicked login")
     time.sleep(.5) # Wait for page to load
     pageToScrape.find_element(By.LINK_TEXT, "Login").click()
-    print("trying to log in again")
     time.sleep(.5)
     username = pageToScrape.find_element(By.ID, "email")
     password = pageToScrape.find_element(By.ID, "password")
@@ -146,7 +144,6 @@ def addRosterToTeams(teamID):
     oldJsonFile = open("teams.JSON", "r") # Opens file for editing
     oldJsonDict = json.load(oldJsonFile) # Gets a copy of old dictionary
     jsonFile = open("teams.JSON", "w")
-    print("Added " + teamName + " to JSON.")
 
     teamDict.update(oldJsonDict) # Merge the new team with old teams
 
