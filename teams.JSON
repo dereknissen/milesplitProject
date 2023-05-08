@@ -1,4 +1,325 @@
 {
+    "Lee's Summit North High School": [
+        [
+            "Goodman, Miles",
+            "https://mo.milesplit.com/athletes/10126013-miles-goodman",
+            {
+                "800 Meter Run": [
+                    [
+                        "2:19.24",
+                        "7th",
+                        "Finals",
+                        "SUBURBAN SILVER CONFERENCE TRACK MEET",
+                        "May 04, 2023"
+                    ],
+                    [
+                        "2:21.10",
+                        "26th",
+                        "Finals",
+                        "Gary Parker Invitational",
+                        "Apr 21, 2023"
+                    ],
+                    [
+                        "2:26.62",
+                        "20th",
+                        "Finals",
+                        "Rusty Hodge Invitational Meet",
+                        "Mar 31, 2023"
+                    ],
+                    [
+                        "2:22.92",
+                        "13th",
+                        "Finals",
+                        "LSR7 Tri Meet",
+                        "Mar 22, 2023"
+                    ],
+                    [
+                        "2:24.80",
+                        "16th",
+                        "Finals",
+                        "Kansas City Suburban Gold JV Conference Championships",
+                        "May 04, 2022"
+                    ],
+                    [
+                        "2:27.87",
+                        "12th",
+                        "Finals",
+                        "Blue Springs South 9/10 Invitational",
+                        "Apr 20, 2022"
+                    ],
+                    [
+                        "2:47.93",
+                        "17th",
+                        "Finals",
+                        "KC Suburban Gold Freshman",
+                        "Apr 27, 2021"
+                    ],
+                    [
+                        "2:52.81",
+                        "31st",
+                        "Finals",
+                        "Liberty North Tri Meet #2",
+                        "Apr 13, 2021"
+                    ],
+                    [
+                        "2:52.81",
+                        "31st",
+                        "Finals",
+                        "Liberty North Tri",
+                        "Apr 13, 2021"
+                    ],
+                    [
+                        "2:53.77",
+                        "9th",
+                        "Finals",
+                        "Liberty North Tri Meet",
+                        "Mar 30, 2021"
+                    ]
+                ],
+                "1600 Meter Run": [
+                    [
+                        "5:16.40",
+                        "10th",
+                        "Finals",
+                        "SUBURBAN SILVER CONFERENCE TRACK MEET",
+                        "May 04, 2023"
+                    ],
+                    [
+                        "5:47.39",
+                        "19th",
+                        "Finals",
+                        "Raymore-Peculiar JV Invitational",
+                        "Apr 04, 2023"
+                    ],
+                    [
+                        "5:29.79",
+                        "14th",
+                        "Finals",
+                        "LSR7 Tri Meet",
+                        "Mar 22, 2023"
+                    ],
+                    [
+                        "5:31.01",
+                        "16th",
+                        "Finals",
+                        "Kansas City Suburban Gold JV Conference Championships",
+                        "May 04, 2022"
+                    ],
+                    [
+                        "5:32.18",
+                        "15th",
+                        "Finals",
+                        "Blue Springs South 9/10 Invitational",
+                        "Apr 20, 2022"
+                    ],
+                    [
+                        "5:50.39",
+                        "14th",
+                        "Finals",
+                        "Raymore Peculiar JV Invitational",
+                        "Apr 05, 2022"
+                    ],
+                    [
+                        "6:18.61",
+                        "17th",
+                        "Finals",
+                        "KC Suburban Gold Freshman",
+                        "Apr 27, 2021"
+                    ],
+                    [
+                        "6:21.21",
+                        "22nd",
+                        "Finals",
+                        "Liberty North Tri Meet #2",
+                        "Apr 13, 2021"
+                    ],
+                    [
+                        "6:21.21",
+                        "22nd",
+                        "Finals",
+                        "Liberty North Tri",
+                        "Apr 13, 2021"
+                    ],
+                    [
+                        "6:25.54",
+                        "13th",
+                        "Finals",
+                        "Liberty North Tri Meet",
+                        "Mar 30, 2021"
+                    ]
+                ],
+                "3200 Meter Run": [
+                    [
+                        "12:15.11",
+                        "13th",
+                        "Finals",
+                        "Park Hill JV Invitational",
+                        "Apr 11, 2023"
+                    ],
+                    [
+                        "13:25.70",
+                        "12th",
+                        "Finals",
+                        "Dave Denny Lee's Summit City Championships",
+                        "Aug 27, 2022"
+                    ],
+                    [
+                        "13:06.41",
+                        "15th",
+                        "Finals",
+                        "Al Davis/Mike Lillis Rockhurst Invitational",
+                        "Apr 28, 2022"
+                    ]
+                ],
+                "Three Mile Run": [
+                    [
+                        "20:00.00",
+                        "974th",
+                        "Finals",
+                        "MO Roster Import (Internal)",
+                        "Feb 28, 2023"
+                    ]
+                ],
+                "5000 Meter Run": [
+                    [
+                        "21:00.73",
+                        "107th",
+                        "Finals",
+                        "KC Suburban Gold/Silver Conference XC",
+                        "Oct 15, 2022"
+                    ],
+                    [
+                        "21:00.10",
+                        "136th",
+                        "Finals",
+                        "KC XC Classic",
+                        "Oct 01, 2022"
+                    ],
+                    [
+                        "20:40.40",
+                        "127th",
+                        "Finals",
+                        "Gans Creek Classic",
+                        "Sep 24, 2022"
+                    ],
+                    [
+                        "21:08.80",
+                        "60th",
+                        "Finals",
+                        "The Kris Solsberg Invite",
+                        "Sep 17, 2022"
+                    ],
+                    [
+                        "21:55.20",
+                        "61st",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 10, 2022"
+                    ],
+                    [
+                        "21:29.80",
+                        "127th",
+                        "Finals",
+                        "Tim Nixon Invitational",
+                        "Sep 03, 2022"
+                    ],
+                    [
+                        "21:49.03",
+                        "52nd",
+                        "Finals",
+                        "KC Suburban Gold Conference XC",
+                        "Oct 16, 2021"
+                    ],
+                    [
+                        "22:29.40",
+                        "215th",
+                        "Finals",
+                        "KC XC Classic",
+                        "Oct 02, 2021"
+                    ],
+                    [
+                        "21:22.70",
+                        "191st",
+                        "Finals",
+                        "Gans Creek Classic",
+                        "Sep 25, 2021"
+                    ],
+                    [
+                        "22:36.70",
+                        "88th",
+                        "Finals",
+                        "LSN Solsberg Invitational",
+                        "Sep 18, 2021"
+                    ],
+                    [
+                        "22:39.00",
+                        "48th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 11, 2021"
+                    ],
+                    [
+                        "24:26.90",
+                        "71st",
+                        "Finals",
+                        "KC Suburban Gold Conference Championships",
+                        "Oct 17, 2020"
+                    ],
+                    [
+                        "25:16.50",
+                        "159th",
+                        "Finals",
+                        "KC XC Classic",
+                        "Oct 03, 2020"
+                    ],
+                    [
+                        "25:41.60",
+                        "118th",
+                        "Finals",
+                        "LSN Invitational",
+                        "Sep 19, 2020"
+                    ],
+                    [
+                        "26:35.80",
+                        "85th",
+                        "Finals",
+                        "Raymore-Peculiar XC Invitational",
+                        "Sep 12, 2020"
+                    ],
+                    [
+                        "31:47.80",
+                        "96th",
+                        "Finals",
+                        "Tim Nixon Invitational",
+                        "Sep 05, 2020"
+                    ]
+                ],
+                "Two Mile Run": [
+                    [
+                        "13:55.90",
+                        "43rd",
+                        "Finals",
+                        "Tim Nixon Invitational",
+                        "Sep 04, 2021"
+                    ],
+                    [
+                        "14:35.80",
+                        "77th",
+                        "Finals",
+                        "The Dave Denny Classic",
+                        "Aug 28, 2021"
+                    ],
+                    [
+                        "18:28.40",
+                        "72nd",
+                        "Finals",
+                        "LSW/LIBN/ROCK/STA/LSN",
+                        "Aug 29, 2020"
+                    ]
+                ]
+            }
+        ]
+    ],
     "Lee's Summit West High School": [
         [
             "Adams, Jordan",
