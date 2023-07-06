@@ -31,8 +31,8 @@ def login():
     time.sleep(.5)
     username = pageToScrape.find_element(By.ID, "email")
     password = pageToScrape.find_element(By.ID, "password")
-    username.send_keys("dcyounger@gmail.com")
-    password.send_keys("YoungerFam01")
+    username.send_keys("############")
+    password.send_keys("############")
     pageToScrape.find_element(By.ID, "frmSubmit").click()
     time.sleep(2)
     return pageToScrape
