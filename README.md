@@ -1,4 +1,4 @@
-# dataScienceProject
+# Milesplit Scraping
 ##### Scraping and visualizing data from mo.milesplit.com
 
 ## Components
