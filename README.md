@@ -1,4 +1,4 @@
-# Milesplit Scraping
+# Track Visualizations
 ##### Scraping and visualizing data from mo.milesplit.com
 
 ## Components
